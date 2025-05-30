@@ -81,6 +81,3 @@ The testing suite assumes integration with six additional services within the sy
 - Ensure the six additional services are compatible with the NLP models and properly handle the input/output formats.
 - Test failures may indicate issues with model predictions or misconfigured services.
 
-## License
-
-MIT
